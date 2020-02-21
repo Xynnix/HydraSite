@@ -1,13 +1,13 @@
 body {
     font-family: 'Poppins', sans-serif !important;
-    background-color: #23272A;
+    background-color: #0af0ad;
     color: #fff;
     margin: 0;
     padding: 0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
-    border-top: 6px #7289DA solid !important;
+    border-top: 6px #da72b6 solid !important;
     font-size: 16px;
 }
 
@@ -35,15 +35,15 @@ body {
 }
 
 .btn-primary {
-    background-color: #7289DA !important
+    background-color: #da72b6 !important
 }
 .btn-secondary {
-    background-color: #2C2F33 !important
+    background-color: #000000 !important
 }
 .heading {
     padding: 160px 50px !important;
     color: #fff !important;
-    background-image: url("https://auxetite-cdn.sirv.com/wavy-blurple-by-nouridio.svg") !important;
+    background-image: url("https://images.unsplash.com/photo-1535013113415-b315146c67d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80") !important;
     background-position: bottom !important;
     background-size: 200% !important;
     background-repeat: no-repeat !important;
@@ -62,7 +62,7 @@ body {
 
 .features {
     text-align: center !important;
-    background: #7289DA !important;
+    background: #da72b6 !important;
     padding: 60px 50px !important
 }
 .features .title {
@@ -88,11 +88,11 @@ body {
 .card-title {
     font-size: 28px !important;
     font-weight: 600 !important;
-    color: #7289DA !important;
+    color: #da72c9 !important;
 }
 
 .statistics {
-    background-color: #23272A !important;
+    background-color: #000000 !important;
     text-align: center !important;
     padding: 20px 20px !important;
 }
@@ -105,13 +105,13 @@ body {
 
 .statistics .subtitle {
     font-size: 20px !important;
-    color: #a2a8bd;
+    color: #abdb9c;
 }
 
 .card.statistic {
     background: transparent !important;
     box-shadow: none !important;
-    color: #f7f7f7 !important;
+    color: #bffaff !important;
 }
 
 .start {
@@ -122,7 +122,7 @@ body {
 
 .start .card {
     background: rgba(255, 255, 255, 0.83) !important;
-    color: #353e4c !important;
+    color: #298f9e !important;
 }
 
 .start .card .subtitle {
@@ -132,14 +132,14 @@ body {
 
 .footer {
     text-align: center !important;
-    background: #353e4c !important;
+    background: #298f9e !important;
     padding: 5px 6px !important;
     color: #ecf2ff;
     font-size: 14px !important
 }
 
 .footer a {
-    color: #6086f6 !important;
+    color: #f660ce !important;
     text-decoration: none !important;
     font-weight: bold !important;
 }
